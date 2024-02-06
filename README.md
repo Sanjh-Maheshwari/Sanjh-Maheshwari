@@ -61,8 +61,8 @@
 ## Connect with me 
 <p align=left>  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-SanjhMaheshwari-green?style=for-the-badge&logo=twitter"></a>
-<a href="https://linkedin.com/sanjh-maheshwari" target="_blank"><img src="https://img.shields.io/badge/Linkedin-SanjhMaheshwari-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="sanjhmaheshwari1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-purple?style=for-the-badge&logo=gmail"></a>
+<a href="https://linkedin.com/in/sanjh-maheshwari/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-SanjhMaheshwari-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="sanjhmaheshwari1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sanjhmaheshwari1209@gmail.com-purple?style=for-the-badge&logo=gmail"></a>
 </p> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
