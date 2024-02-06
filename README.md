@@ -60,7 +60,7 @@
 
 ## Connect with me 
 <p align=left>  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-SanjhMaheshwari-green?style=for-the-badge&logo=twitter"></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-Sanjh-green?style=for-the-badge&logo=twitter"></a>
 <a href="https://linkedin.com/in/sanjh-maheshwari/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-SanjhMaheshwari-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="sanjhmaheshwari1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sanjhmaheshwari1209@gmail.com-purple?style=for-the-badge&logo=gmail"></a>
 </p> 
