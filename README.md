@@ -2,7 +2,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
 ## I'm a Computer Science Student at IIT Palakkad
 
@@ -51,15 +51,15 @@
 <br/>
 <p align=center>  
 
-<img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjh-Maheshwari&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjh-Maheshwari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
+<img height="160em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjh-Maheshwari&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
+<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjh-Maheshwari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
 <!-- <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjh-Maheshwari&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </p>  
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
 ## Connect with me 
-<p align=center>  
+<p align=left>  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitter-SanjhMaheshwari-green?style=for-the-badge&logo=twitter"></a>
 <a href="https://linkedin.com/sanjh-maheshwari" target="_blank"><img src="https://img.shields.io/badge/Linkedin-SanjhMaheshwari-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="sanjhmaheshwari1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-kasroudrakrd@gmail.com-purple?style=for-the-badge&logo=gmail"></a>
@@ -67,4 +67,4 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
-### Thanks for Visiting! 
+### Thanks for Visiting 😊! 
