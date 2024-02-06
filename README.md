@@ -52,7 +52,7 @@
 <p align=center>  
 
 <img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjh-Maheshwari&theme=tokyonight&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" />
-<img height="180em" align=center src="https://github-readme-stats.vercel.app/api?username=Sanjh-Maheshwari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Sanjh-Maheshwari&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)">
 <!-- <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjh-Maheshwari&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </p>  
 
