@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Sanjh
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img align="right" alt="GIF" height="200px" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" />
 
@@ -12,7 +12,7 @@
 - ⚡ Past Work : I have worked on computer vision combined with blender!
 - 💪🏼 Future Goals: Learn more about AI and Web frameworks, contribute to open source  
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Tech Stack  
 
@@ -45,7 +45,7 @@
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-222222?style=flat-square&logo=microsoft-azure)
 <br/>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Github Analytics  
 <br/>
@@ -56,7 +56,7 @@
 <!-- <img height="180em" align=center src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sanjh-Maheshwari&layout=compact&langs_count=8&theme=tokyonight"/> -->
 </p>  
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
 ## Connect with me 
 <p align=left>  
@@ -65,6 +65,6 @@
 <a href="sanjhmaheshwari1209@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-sanjhmaheshwari1209@gmail.com-purple?style=for-the-badge&logo=gmail"></a>
 </p> 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>  
 
 ### Thanks for Visiting 😊! 
